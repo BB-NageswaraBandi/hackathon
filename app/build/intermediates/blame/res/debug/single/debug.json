@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/nageswarabandi/AndroidStudioProjects/Android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/nageswarabandi/AndroidStudioProjects/Android/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nageswarabandi/AndroidStudioProjects/Android/app/build/intermediates/res/merged/debug/layout_home_layout.xml.flat",
+        "source": "/home/nageswarabandi/AndroidStudioProjects/Android/app/src/main/res/layout/home_layout.xml"
+    },
+    {
+        "merged": "/home/nageswarabandi/AndroidStudioProjects/Android/app/build/intermediates/res/merged/debug/xml_provider_paths.xml.flat",
+        "source": "/home/nageswarabandi/AndroidStudioProjects/Android/app/src/main/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/nageswarabandi/AndroidStudioProjects/Android/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/nageswarabandi/AndroidStudioProjects/Android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nageswarabandi/AndroidStudioProjects/Android/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/nageswarabandi/AndroidStudioProjects/Android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/nageswarabandi/AndroidStudioProjects/Android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/nageswarabandi/AndroidStudioProjects/Android/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nageswarabandi/AndroidStudioProjects/Android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/nageswarabandi/AndroidStudioProjects/Android/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nageswarabandi/AndroidStudioProjects/Android/app/build/intermediates/res/merged/debug/layout_second_page_layout.xml.flat",
+        "source": "/home/nageswarabandi/AndroidStudioProjects/Android/app/src/main/res/layout/second_page_layout.xml"
+    },
+    {
+        "merged": "/home/nageswarabandi/AndroidStudioProjects/Android/app/build/intermediates/res/merged/debug/drawable-hdpi_scanner_ic.png.flat",
+        "source": "/home/nageswarabandi/AndroidStudioProjects/Android/app/src/main/res/drawable-hdpi/scanner_ic.png"
+    },
+    {
+        "merged": "/home/nageswarabandi/AndroidStudioProjects/Android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/nageswarabandi/AndroidStudioProjects/Android/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nageswarabandi/AndroidStudioProjects/Android/app/build/intermediates/res/merged/debug/drawable-hdpi_launcher.jpg.flat",
+        "source": "/home/nageswarabandi/AndroidStudioProjects/Android/app/src/main/res/drawable-hdpi/launcher.jpg"
+    },
+    {
+        "merged": "/home/nageswarabandi/AndroidStudioProjects/Android/app/build/intermediates/res/merged/debug/drawable-hdpi_scan1.jpg.flat",
+        "source": "/home/nageswarabandi/AndroidStudioProjects/Android/app/src/main/res/drawable-hdpi/scan1.jpg"
+    }
+]
